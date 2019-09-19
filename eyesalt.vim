@@ -13,4 +13,5 @@ let g:colors_name = "eyesalt"
 
 " Colors: {{{
 hi Normal ctermfg=223 ctermbg=236 cterm=NONE
+hi Comment ctermfg=246 ctermbg=NONE cterm=italic
 " }}}
