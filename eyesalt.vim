@@ -17,4 +17,7 @@ hi Comment ctermfg=246 ctermbg=NONE cterm=italic
 hi Constant ctermfg=216 ctermbg=NONE cterm=NONE
 hi String ctermfg=186 ctermbg=NONE cterm=NONE
 hi Identifier ctermfg=174 ctermbg=NONE cterm=NONE
+hi Statement ctermfg=215 ctermbg=NONE cterm=NONE
+hi Conditional ctermfg=224 ctermbg=NONE cterm=NONE
+hi Operator ctermfg=224 ctermbg=NONE cterm=NONE
 " }}}
