@@ -12,5 +12,5 @@ let g:colors_name = "eyesalt"
 " }}}
 
 " Colors: {{{
-hi Normal ctermfg=224 ctermbg=236 cterm=NONE
+hi Normal ctermfg=223 ctermbg=236 cterm=NONE
 " }}}
