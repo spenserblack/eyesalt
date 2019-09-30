@@ -13,6 +13,7 @@ let g:colors_name = "eyesalt"
 
 " Colors: {{{
 hi ColorColumn     ctermfg=NONE ctermbg=237  cterm=NONE
+hi Conceal         ctermfg=59   ctermbg=NONE cterm=NONE
 hi Comment         ctermfg=246  ctermbg=NONE cterm=italic
 hi Conditional     ctermfg=224  ctermbg=NONE cterm=NONE
 hi Constant        ctermfg=216  ctermbg=NONE cterm=NONE
