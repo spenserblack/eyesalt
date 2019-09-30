@@ -21,4 +21,6 @@ hi Statement ctermfg=215 ctermbg=NONE cterm=NONE
 hi Conditional ctermfg=224 ctermbg=NONE cterm=NONE
 hi Operator ctermfg=224 ctermbg=NONE cterm=NONE
 hi PreProc ctermfg=222 ctermbg=NONE cterm=italic
+hi Type ctermfg=175 ctermbg=NONE cterm=NONE
+hi StorageClass ctermfg=174 ctermbg=NONE cterm=bold
 " }}}
