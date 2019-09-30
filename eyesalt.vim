@@ -24,5 +24,6 @@ hi PreProc         ctermfg=222  ctermbg=NONE cterm=italic
 hi Statement       ctermfg=215  ctermbg=NONE cterm=NONE
 hi StorageClass    ctermfg=174  ctermbg=NONE cterm=bold
 hi String          ctermfg=186  ctermbg=NONE cterm=NONE
+hi Todo            ctermfg=NONE ctermbg=NONE cterm=bold,italic
 hi Type            ctermfg=175  ctermbg=NONE cterm=NONE
 " }}}
