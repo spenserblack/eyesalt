@@ -17,10 +17,12 @@ hi Conceal         ctermfg=59   ctermbg=NONE cterm=NONE
 hi Comment         ctermfg=246  ctermbg=NONE cterm=italic
 hi Conditional     ctermfg=224  ctermbg=NONE cterm=NONE
 hi Constant        ctermfg=216  ctermbg=NONE cterm=NONE
+hi Error           ctermfg=130  ctermbg=NONE cterm=underline
 hi Identifier      ctermfg=174  ctermbg=NONE cterm=NONE
 hi Normal          ctermfg=223  ctermbg=236  cterm=NONE
 hi Operator        ctermfg=224  ctermbg=NONE cterm=NONE
 hi PreProc         ctermfg=222  ctermbg=NONE cterm=italic
+hi SpellBad        ctermfg=130  ctermbg=NONE cterm=underline
 hi Statement       ctermfg=215  ctermbg=NONE cterm=NONE
 hi StorageClass    ctermfg=174  ctermbg=NONE cterm=bold
 hi String          ctermfg=186  ctermbg=NONE cterm=NONE
