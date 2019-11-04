@@ -26,4 +26,5 @@ hi StorageClass    ctermfg=174  ctermbg=NONE cterm=bold
 hi String          ctermfg=186  ctermbg=NONE cterm=NONE
 hi Todo            ctermfg=NONE ctermbg=NONE cterm=bold,italic
 hi Type            ctermfg=175  ctermbg=NONE cterm=NONE
+hi Underlined                                cterm=underline
 " }}}
