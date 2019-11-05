@@ -8,7 +8,7 @@ module.exports.colors = {
     accent5: '#FFAF5F',
     accent6: '#FFD7AF',
     accent7: '#D78787',
-    shade0: '#5E3F3F',
-    shade7: '#230000',
+    shade0: '#230000',
+    shade7: '#8E6F6F',
   },
 };
