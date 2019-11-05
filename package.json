@@ -1,0 +1,27 @@
+{
+  "name": "eyesalt.vim",
+  "version": "0.0.1",
+  "description": "A dark, low contrast vim colorscheme with warm colors",
+  "dependencies": {
+    "themer": "^3.1.6",
+    "themer-colors-default": "^1.0.10",
+    "themer-vim": "^3.0.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "build": "themer -c src/eyesalt.js -t themer-vim -o gen"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/spenserblack/eyesalt.git"
+  },
+  "keywords": [
+    "vim",
+    "colorscheme"
+  ],
+  "license": "Unlicense",
+  "bugs": {
+    "url": "https://github.com/spenserblack/eyesalt/issues"
+  },
+  "homepage": "https://github.com/spenserblack/eyesalt#readme"
+}
