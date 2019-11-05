@@ -1,10 +1,9 @@
 {
   "name": "eyesalt.vim",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "description": "A dark, low contrast vim colorscheme with warm colors",
   "dependencies": {
     "themer": "^3.1.6",
-    "themer-colors-default": "^1.0.10",
     "themer-vim": "^3.0.2"
   },
   "devDependencies": {},
