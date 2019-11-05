@@ -19,7 +19,7 @@
     "vim",
     "colorscheme"
   ],
-  "license": "Unlicense",
+  "license": "MIT",
   "bugs": {
     "url": "https://github.com/spenserblack/eyesalt/issues"
   },
