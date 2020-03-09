@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "A dark, low contrast color scheme with warm colors",
   "dependencies": {
-    "themer": "^3.1.6",
+    "themer": "^3.1.8",
     "themer-vim": "^3.1.0"
   },
   "devDependencies": {},
