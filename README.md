@@ -1,5 +1,4 @@
 # :eye:salt
-[![Dependabot Status](https://api.dependabot.com/badges/status?host=github&repo=spenserblack/eyesalt)](https://dependabot.com)
 
 A dark, low contrast colorscheme with warm colors made with [themer](https://github.com/mjswensen/themer).
 
